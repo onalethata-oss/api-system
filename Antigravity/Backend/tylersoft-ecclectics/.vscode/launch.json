@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TylersoftApplication<eclectics>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.tylersoft.eclectics.TylersoftApplication",
+            "projectName": "eclectics",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
